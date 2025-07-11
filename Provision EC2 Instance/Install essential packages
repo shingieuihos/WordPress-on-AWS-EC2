@@ -1,0 +1,8 @@
+
+Install essential packages:
+
+bash
+~~~
+sudo dnf update -y
+sudo dnf install -y wget unzip nano firewalld policycoreutils-python-utils
+~~~
