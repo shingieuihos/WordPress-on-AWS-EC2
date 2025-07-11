@@ -1,15 +1,15 @@
 # WordPress-on-AWS-EC2
-My first project that I did for my first client - my wife for her website which is currently live you can check it out on the link below:
+My first project that I did for my first client - my wife, lol.  This is for her website which is currently live and you can check it out on the link below:
 
 https://www.laurian.co.za/
 
-This is a guide walking through how I set up a secure and scalable WordPress web server on an Amazon EC2 instance running Amazon Linux 2023. It includes: 
-Apache + PHP + MySQL setup  
-SSL via Let's Encrypt  
-Daily backups uploaded to S3   
-Backup integrity check  
-File permission hardening   
-Health checks with optional AWS SNS alerts
+This guide walking through how I set up a secure and scalable WordPress web server on an Amazon EC2 instance running Amazon Linux 2023. It includes: 
+~ Apache + PHP + MySQL setup  
+~ SSL via Let's Encrypt  
+~ Daily backups uploaded to S3   
+~ Backup integrity check  
+~ File permission hardening   
+~ Health checks with optional AWS SNS alerts
 
 
 Table of Contents
