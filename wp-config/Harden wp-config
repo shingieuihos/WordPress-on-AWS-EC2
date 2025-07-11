@@ -1,0 +1,3 @@
+sudo chown apache:root /var/www/html/wp-config.php
+
+sudo chmod 640 /var/www/html/wp-config.php
