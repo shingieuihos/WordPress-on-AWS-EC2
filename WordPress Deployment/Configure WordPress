@@ -1,0 +1,5 @@
+cd /var/www/html
+
+sudo cp wp-config-sample.php wp-config.php
+
+sudo nano wp-config.php  # Set DB_NAME, DB_USER, DB_PASSWORD
