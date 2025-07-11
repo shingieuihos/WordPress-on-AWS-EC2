@@ -1,0 +1,6 @@
+mkdir ~/temp && cd ~/temp
+wget https://wordpress.org/latest.zip
+unzip latest.zip
+sudo cp -r wordpress/* /var/www/html/
+sudo chown -R apache:apache /var/www/html/
+sudo chmod -R 755 /var/www/html/
