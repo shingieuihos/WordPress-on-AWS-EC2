@@ -1,0 +1,5 @@
+sudo dnf install -y httpd php php-mysqlnd php-fpm php-json php-gd php-xml php-mbstring php-curl mysql-server
+
+sudo systemctl start httpd mysqld
+
+sudo systemctl enable httpd mysqld
