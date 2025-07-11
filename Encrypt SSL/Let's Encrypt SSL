@@ -1,0 +1,7 @@
+sudo dnf install -y certbot python3-certbot-apache
+
+#Request certificate:
+
+sudo certbot --apache
+
+#Select yourdomain.co.za and www.yourdomain.co.za when prompted.
