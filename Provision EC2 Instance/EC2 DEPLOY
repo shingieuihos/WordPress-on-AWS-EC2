@@ -1,0 +1,5 @@
+Launch an EC2 instance with Amazon Linux 2023 in your VPC.
+
+Open ports 80 (HTTP), 443 (HTTPS), and optionally 22 (SSH) in the security group.
+
+Assign a static Elastic IP and map your domain in Route 53.
