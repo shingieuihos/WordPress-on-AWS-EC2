@@ -1,5 +1,5 @@
 # WordPress-on-AWS-EC2
-My first project that I did for my first client - my wife, lol.  This is for her website which is currently live and you can check it out on the link below:
+My first project to go live that I did for my first client - my wife, lol.  This is for her website which is currently live and you can check it out on the link below:
 
 https://www.laurian.co.za/
 
