@@ -1,5 +1,12 @@
 # WordPress-on-AWS-EC2
 My first project to go live that I did for my first client - my wife, lol.  This is for her website which is currently live and you can check it out on the link below:
+This repository provides a complete, production-ready WordPress deployment on Amazon EC2 with automated SSL certificate management.
+ 
+###  Prerequisites
+
+AWS Account with EC2 access
+Domain name registered and managed through Route 53
+Basic knowledge of AWS services
 
 https://www.laurian.co.za/
 
